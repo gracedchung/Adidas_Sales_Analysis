@@ -40,4 +40,7 @@ Sales analysis is crucial for large corporations like Adidas. Pre-processing and
 ## Methodology/Tools
 **Microsoft Excel**: Data cleaning, Pivot Tables, data analysis, and visualization
 
-
+## How
+1. Download the .xlsx file (original sales data is included).
+2. Open the dataset and review the sales analysis findings.
+3. Interact with the dashboard using the provided slicer.
