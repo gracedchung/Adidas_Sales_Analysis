@@ -1,10 +1,11 @@
 # Adidas U.S. Sales Analysis 
 ## Project Objective
 Using 2020–2021 data to analyze Adidas’s performance and identify which areas drive the most revenue, broken down by key factors such as product category and retailer.
-The goal is to generate business insights on where Adidas excels and where there is room for improvement.
+The objective is to uncover actionable business insights that highlight areas of strong performance and opportunities for improvement.
 
 ## Project Description 
-Sales analysis is crucial for large corporations like Adidas. Pre-processing and analyzing large datasets help evaluate KPIs (Key Performance Indicators), uncover key metrics, and build dashboards that visualize trends, sales performance, and profit margins.
+Sales analysis plays a critical role in evaluating performance for large corporations like Adidas. This project involves cleaning and preprocessing raw data, analyzing key performance indicators (KPIs), and identifying meaningful trends.
+Interactive dashboards were developed in Excel to visualize sales performance, revenue distribution, and profit margins, enabling clearer data-driven decision-making.
 
 ## Visualization 
 <img width="1468" height="709" alt="Dashboard jpg" src="https://github.com/user-attachments/assets/99b028bd-10ab-4e41-bde3-5731b26cbfc3" />
